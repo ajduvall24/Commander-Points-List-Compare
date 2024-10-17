@@ -1,0 +1,132 @@
+1 Academy Manufactor
+1 Aetherworks Marvel
+1 Agent of the Iron Throne
+1 Akal Pakal, First Among Equals
+1 An Offer You Can't Refuse
+1 Arcane Signet
+1 Archway of Innovation
+1 Black Market Connections
+1 Blink
+1 Blood Money
+1 Bloodghast
+1 Bojuka Bog
+1 Candlestick
+1 Case of the Shifting Visage
+1 Case of the Stashed Skeleton
+1 Cauldron Familiar
+1 Ceremonial Knife
+1 Charnel Serenade
+1 Clearwater Pathway // Murkwater Pathway
+1 Command Tower
+1 Corrupted Conviction
+1 Cryptex
+1 Darksteel Citadel
+1 Deadly Cover-Up
+1 Deadly Dispute
+1 Deduce
+1 Detective of the Month
+1 Diabolic Intent
+1 Dimir Guildgate
+1 Dimir Signet
+1 Disciple of the Vault
+1 Dogged Detective
+1 Drag the Canal
+1 Drowned Catacomb
+1 Eloise, Nephalia Sleuth
+1 Emrakul's Messenger
+1 Emry, Lurker of the Loch
+1 Ethereal Investigator
+1 Exotic Orchard
+1 Extract a Confession
+1 Fanatical Offering
+1 Fatal Push
+1 Fetid Pools
+1 Five Hundred Year Diary
+1 Flare of Malice
+1 Floodhound
+1 Follow the Bodies
+1 Forensic Gadgeteer
+1 Forge, Neverwinter Charlatan
+1 Goldvein Pick
+1 Grim Hireling
+1 Hard Evidence
+1 Havengul Laboratory // Havengul Mystery
+1 High Market
+1 Homicide Investigator
+1 Hostile Investigator
+1 Ice Tunnel
+1 Idol of Oblivion
+1 Illicit Masquerade
+1 In Too Deep
+1 Inspiring Statuary
+1 Intrude on the Mind
+1 Investigator's Journal
+2 Island
+2 Island
+1 Island
+1 Island
+1 Jacob Hauken, Inspector // Hauken's Insight
+1 Jadar, Ghoulcaller of Nephalia
+1 Krark-Clan Ironworks
+1 Lazav, Wearer of Faces
+1 Lead Pipe
+1 Liliana, Dreadhorde General
+1 Magnifying Glass
+1 Marionette Apprentice
+1 Marionette Master
+1 Mirkwood Bats
+1 Mistvault Bridge
+1 Mistway Spy
+1 Morbid Opportunist
+1 Morphic Pool
+1 Murder
+1 Nadier's Nightblade
+1 Nyssa of Traken
+1 Ophiomancer
+1 Pitiless Plunderer
+1 Pointed Discussion
+1 Polluted Delta
+1 Reassembling Skeleton
+1 Reenact the Crime
+1 Retrofitter Foundry
+1 Reverse Engineer
+1 Rise and Shine
+1 Sanguine Spy
+1 Scene of the Crime
+1 Seat of the Synod
+1 Secret Passage
+1 Shimmer Dragon
+1 Shipwreck Marsh
+1 Snarling Gorehound
+1 Sol Ring
+1 Steamcore Scholar
+1 Stern Lesson
+1 Sunken Hollow
+1 Suspicious Bookcase
+2 Swamp
+1 Swamp
+1 Swamp
+2 Swamp
+1 Swamp
+1 Swamp
+1 Talisman of Dominance
+1 Tamiyo Meets the Story Circle
+1 Tamiyo's Journal
+1 Tarrian's Journal // The Tomb of Aclazotz
+1 Temple of Deceit
+1 Terisiare's Devastation
+1 Tezzeret, Betrayer of Flesh
+1 Tezzeret, Master of the Bridge
+1 The Enigma Jewel // Locus of Enlightenment
+1 Thought Monitor
+1 Thoughtcast
+1 Thran Turbine
+1 Tragic Slip
+1 Treasure Map // Treasure Cove
+1 Unshakable Tail
+1 Vault of Whispers
+1 Vorpal Sword
+1 Warren Soultrader
+1 Watery Grave
+1 Witch's Oven
+1 Yahenni, Undying Partisan
