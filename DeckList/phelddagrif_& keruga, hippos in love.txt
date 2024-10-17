@@ -1,0 +1,99 @@
+1 Ancient Tomb
+1 Angel's Trumpet
+1 Arachnogenesis
+1 Bala Ged Recovery // Bala Ged Sanctuary
+1 Barkchannel Pathway // Tidechannel Pathway
+1 Beck // Call
+1 Boseiju, Who Endures
+1 Bountiful Promenade
+1 Branchloft Pathway // Boulderloft Pathway
+1 Breeding Pool
+1 Buried in the Garden
+1 Careful Cultivation
+1 Castle Garenbrig
+1 Command Tower
+1 Consecrated Sphinx
+1 Crafty Cutpurse
+1 Cultivate
+1 Defense of the Heart
+1 Dictate of Kruphix
+1 Dingus Staff
+1 Dryad of the Ilysian Grove
+1 Endless Detour
+1 Ezuri's Predation
+1 Fabled Passage
+1 Fierce Guardianship
+1 Flooded Strand
+1 Forbidden Orchard
+1 Force of Will
+5 Forest
+1 Fractured Identity
+1 Freestrider Lookout
+1 Generous Gift
+1 Ghostly Prison
+1 Hallowed Fountain
+1 Heartbeat of Spring
+1 Hinterland Harbor
+1 Insight
+1 Intruder Alarm
+3 Island
+1 Keruga, the Macrosage
+1 Kodama's Reach
+1 Lair of the Hydra
+1 Ley Weaver
+1 Leyline of Anticipation
+1 Lore Weaver
+1 Make Your Own Luck
+1 Master of Ceremonies
+1 Maze of Ith
+1 Mercy Killing
+1 Mirari's Wake
+1 Misty Rainforest
+1 Mystic Confluence
+1 Nyxbloom Ancient
+1 Octomancer
+1 Overgrowth
+1 Perch Protection
+1 Phelddagrif
+1 Pir's Whim
+3 Plains
+1 Prismatic Vista
+1 Propaganda
+1 Psychic Possession
+1 Questing Phelddagrif
+1 Reins of Power
+1 Rejuvenating Springs
+1 Repudiate // Replicate
+1 Rift Sower
+1 Sea of Clouds
+1 Search for Tomorrow
+1 Selvala, Explorer Returned
+1 Smothering Tithe
+1 Solitude
+1 Spara's Headquarters
+1 Springbloom Druid
+1 Struggle for Project Purity
+1 Sunpetal Grove
+1 Supreme Verdict
+1 Teferi's Protection
+1 Temple Garden
+1 Temporary Lockdown
+1 Tempt with Bunnies
+1 The Council of Four
+1 Topiary Stomper
+1 Touch the Spirit Realm
+1 Treetop Village
+1 Trouble in Pairs
+1 Unexplained Absence
+1 Valley Floodcaller
+1 Vanquish the Horde
+1 Wargate
+1 Wedding Ring
+1 Wilderness Reclamation
+1 Windfall
+1 Windshaper Planetar
+1 Windswept Heath
+1 Witch Enchanter // Witch-Blessed Meadow
+1 Wood Elves
+1 Wrath of God
+1 Yavimaya, Cradle of Growth

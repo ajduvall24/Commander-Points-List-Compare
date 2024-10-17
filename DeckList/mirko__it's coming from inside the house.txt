@@ -1,0 +1,99 @@
+1 Altar of Dementia
+1 Anvil of Bogardan
+1 Arcane Signet
+1 Arcbound Overseer
+1 Auton Soldier
+1 Baleful Strix
+1 Bitter Triumph
+1 Bloatfly Swarm
+1 Bojuka Bog
+1 Cephalid Coliseum
+1 Chart a Course
+1 Clearwater Pathway // Murkwater Pathway
+1 Clever Impersonator
+1 Command Tower
+1 Consider
+1 Copycrook
+1 Demolition Field
+1 Deranged Assistant
+1 Dimir Strandcatcher
+1 Discovery // Dispersal
+1 Dogged Detective
+1 Doom Whisperer
+1 Dowsing Dagger // Lost Vale
+1 Duplicant
+1 Embodiment of Agonies
+1 Emry, Lurker of the Loch
+1 Evil Twin
+1 Exotic Orchard
+1 Fabled Passage
+1 Faerie Artisans
+1 Flesh Duplicate
+1 Ghostly Flicker
+1 Gigantoplasm
+1 Glasspool Mimic // Glasspool Shore
+1 Gyruda, Doom of Depths
+1 Hedron Crab
+1 Hexavus
+1 High Market
+9 Island
+1 Jace, Vryn's Prodigy // Jace, Telepath Unbound
+1 Jace, Vryn's Prodigy // Jace, Telepath Unbound
+1 Ledger Shredder
+1 Lethal Scheme
+1 Likeness Looter
+1 Liquimetal Torque
+1 Make an Example
+1 Malakir Rebirth // Malakir Mire
+1 Malleable Impostor
+1 Mask of Memory
+1 Millikin
+1 Mind Stone
+1 Mirko, Obsessive Theorist
+1 Mirrorhall Mimic // Ghastly Mimicry
+1 Mocking Doppelganger
+1 Morphic Pool
+1 Mystic Sanctuary
+1 Nesting Grounds
+1 Nightveil Sprite
+1 Ornithopter of Paradise
+1 Otawara, Soaring City
+1 Otherworldly Gaze
+1 Phantasmal Image
+1 Phyrexian Metamorph
+1 Pile On
+1 Port of Karfell
+1 Power Conduit
+1 Reanimate
+1 Resculpt
+1 Rona, Herald of Invasion // Rona, Tolarian Obliterator
+1 Satoru, the Infiltrator
+1 Sinister Starfish
+1 Smuggler's Copter
+1 Sol Ring
+1 Soul Diviner
+1 Spark Double
+1 Stitcher's Supplier
+1 Stuffy Doll
+1 Sunken Hollow
+9 Swamp
+1 Sword of Hearth and Home
+1 Sword of the Animist
+1 Tainted Indulgence
+1 The Reality Chip
+1 Threefold Thunderhulk
+1 Thrull Parasite
+1 Toxic Deluge
+1 Triskelion
+1 Troll of Khazad-dûm
+1 Undercity Sewers
+1 Undercover Operative
+1 Vesuvan Shapeshifter
+1 Vizier of Many Faces
+1 Vohar, Vodalian Desecrator
+1 Wall of Stolen Identity
+1 Wash Out
+1 Waterfront District
+1 Watery Grave
+1 Wayfarer's Bauble
+1 Witness Protection
